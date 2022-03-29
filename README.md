@@ -46,7 +46,8 @@ npx farina
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/jeanmaFarina/npx-card/issues). You can also take a look at the [contributing guide](https://github.com/jeanmaFarina/npx-card/blob/master/CONTRIBUTING.md).
-
+## Link
+https://www.npmjs.com/package/farina
 ## Show your support
 
 Give a ⭐️ if this project helped you!
