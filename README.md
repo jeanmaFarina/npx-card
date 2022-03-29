@@ -21,7 +21,7 @@
 ## Install
 
 ```sh
-npm install
+npm install farina
 ```
 
 ## Usage
